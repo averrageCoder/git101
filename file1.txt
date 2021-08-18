@@ -6,3 +6,6 @@ This is a demo file
 =======
 --- THIS LINE WAS ADDED TO CREATE A CONFLICT (FROM REMOTE) ---
 >>>>>>> 22bda255bc61b07c7a0c2246358ed0f8dedecd71
+
+
+added this from newbranch
